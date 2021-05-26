@@ -1,0 +1,1 @@
+SELECT FirstName, LastName, Title FROM EMPLOYEE WHERE Title = "Sales Support Agent"
